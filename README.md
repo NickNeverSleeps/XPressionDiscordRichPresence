@@ -1,5 +1,5 @@
 # XPression Discord Rich Presence™  
-*Because XPression operators deserve clout, too.*
+*Because XPression integrators deserve clout, too.*
 
 ## 📝 Foreword (by Jayme)
 > *[Insert poetic ramblings, tech evangelism, or wild anecdotes here.]*  
